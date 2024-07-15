@@ -40,13 +40,13 @@ function MenuPart() {
       >
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
         <div className="relative flex justify-center items-center gap-5 ">
-          <div className="p-1 px-2 sm:px-4 border-2 border-[#0796EF] bg-black">
+          <div className="p-1 px-2 sm:px-4 border-[1px] border-[#0796EF] bg-black">
             FOOD
           </div>
-          <div className="p-1 px-2 sm:px-4 border-2 border-[#0796EF] bg-[#0796EF]">
+          <div className="p-1 px-2 sm:px-4 border-[1px] border-[#0796EF] bg-[#0796EF]">
             DRINK
           </div>
-          <div className="p-1 px-2 sm:px-4 border-2 border-[#0796EF] bg-black">
+          <div className="p-1 px-2 sm:px-4 border-[1px] border-[#0796EF] bg-black">
             BRUNCH
           </div>
         </div>
